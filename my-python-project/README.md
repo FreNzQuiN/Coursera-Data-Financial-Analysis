@@ -7,10 +7,7 @@ This is a simple Python project structure that includes a main application and u
 ```
 my-python-project/
 ├── src/
-│   ├── __init__.py
-│   └── main.py
-├── tests/
-│   └── test_main.py
+│   └── basic.ipynb
 ├── requirements.txt
 └── README.md
 ```
