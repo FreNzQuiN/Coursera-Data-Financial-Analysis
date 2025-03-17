@@ -7,7 +7,7 @@ This is a simple Python project structure that includes a main application and u
 ```
 my-python-project/
 ├── src/
-│   └── basic.ipynb
+│   └── LessonX.ipynb
 ├── requirements.txt
 └── README.md
 ```
